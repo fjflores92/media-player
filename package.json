@@ -1,10 +1,10 @@
 {
-  "name": "media-player",
+  "name": "platzi-media-player",
   "version": "1.0.0",
   "description": "Plugins para extender las funcionalidades del reproductor de video.",
   "main": "lib/MediaPlayer.js",
   "scripts": {
-    "build": "tsc src/**/*.ts src/plugins/*.ts src/plugins/**/*.ts --outDir lib"
+    "build": "tsc"
   },
   "keywords": [
     "media",
