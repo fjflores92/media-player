@@ -1,5 +1,5 @@
 {
-  "name": "@fdjflores/platzi-media-player",
+  "name": "fdjflores-platzi-media-player",
   "version": "1.0.0",
   "description": "Plugins para extender las funcionalidades del reproductor de video.",
   "main": "lib/MediaPlayer.js",
